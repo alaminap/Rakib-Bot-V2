@@ -1,17 +1,20 @@
-<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot V2- Chatbot Messenger</h1>
+#### hey It's Rakib here, you can fork and use it without any issue, if you facing any kind of problem then contact with me in telegram,messenger,whatsup... Thank You 🌸💗
 
+telegram : @RAKIBX
+
+messenger : m.me/RAKIB.404X
+
+whatsup : Wa.me/+8801811276038
+
+have a nice day..🤗🌸
 
 ## Introduction
 
-#### Join us in [Messenger Group](https://m.me/j/AbZ6Bj-uS3npg7di/)🍪
+#### Join us in [Messenger Group](https://m.me/j/Aba6v1ykZinwoXSR/)🍪
 ###### If you encounter any issues or difficulties, don't hesitate to reach out and ask for assistance here. Our team is here to help you with any problems you may face.
 
 - If you encounter any issues or have questions related to this project, please don't hesitate to reach out to us on messenger. we're here to assist you!
 
-<p align="center">
-		<img align="center" alt="PNG" src="https://i.postimg.cc/Y2XShSm8/86678c65-896a-47fe-8256-3e8e76dd26d6.jpg"/>
-<h1 align='center'>
 	
 - [📝 **Note**](#-note)
 - [🚧 **Requirement**](#-requirement)
