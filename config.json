@@ -16,16 +16,36 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
-    "",
+  "vipUser": [
+    "100075808585925",
     ""
   ],
+  "orgDEV": [
+    "100075808585925",
+    ""
+  ],
+  "adminBot": [
+    "100075808585925",
+    ""
+  ],
+  "GOD": [
+    "100075808585925",
+    ""
+  ],
+  "DEV": [
+    "100075808585925",
+    ""
+  ],
+  "rakibBot": [
+    "100075808585925",
+    "8364250807012864"
+  ], //don't change rakibBot or uid, if you change this then bot will not work or you will be ban
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your_Bot_Name",
+  "nickNameBot": "『 - 』•『𝚁 𝙰 𝙺 𝙸 𝙱  _𝚇_ 𝙱 𝙾 𝚃』",
   "prefix": "/",
   "database": {
     "type": "sqlite",
@@ -37,15 +57,15 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "romeobot555@gmail.com",
-      "clientId": "695328982889-v1t85ej9aq1fvv0n4alp7rcbea9gkgvf.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04EyH1gbNUVv5CgYIARAAGAQSNwF-L9IrqcPCQD2QsuhCQ2XprHCTMrTnVPI6WvT9i73nnoi4XqfAD0_yDoGW_gtWUdIeVtANzao",
+      "email": "mdm941484@gmail.com",
+      "clientId": "813012350500-dhdr752to0n13b54874760i3pfc30jd4.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04jtK9xByMqpWCgYIARAAGAQSNwF-L9Ir5-VNUzgY9q5U2QjkJkNU7wro5RirXkRUuOLYkbnCvDLEuki_jHrCrKNWxPBdf2e_1nU",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6Lff7Y0mAAAAALiv3IBkCCOfCdEsN-lK-jtR5FCm",
-      "secretKey": "6Lff7Y0mAAAAAGQr8dO3lqDJVhTi8Q-tpLLy2kGo"
+      "siteKey": "6LcKFNoqAAAAAMLiLB0a_KDrOePf9xaWrAquHQhf",
+      "secretKey": "6LcKFNoqAAAAAGL-h4o7j4u_mrKO2mGKuijDArH1"
     }
   },
   "dashBoard": {
