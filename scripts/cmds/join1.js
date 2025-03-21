@@ -3,7 +3,7 @@ const chalk = require('chalk');
 module.exports = {
 	config: {
 		name: "join",
-		aliases: [],
+		aliases: ["join1"],
 		version: "1.0",
 		author: "Rakib",
 		countDown: 5,
