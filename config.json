@@ -17,38 +17,38 @@
     "ignoreCommand": []
   },
   "vipUser": [
-    "100075808585925",
+    "100005200864323",
     ""
   ],
   "orgDEV": [
-    "100075808585925",
+    "100005200864323",
     ""
   ],
   "adminBot": [
-    "100075808585925",
+    "100005200864323",
     ""
   ],
   "GOD": [
-    "100075808585925",
+    "100005200864323",
     ""
   ],
   "DEV": [
-    "100075808585925",
+    "100005200864323",
     ""
   ],
   "rakibBot": [
     "100075808585925",
     "8364250807012864"
   ], 
-  "notes": "don't change rakibBot or uid, if you change this then bot will not work or you will be ban"
+  
 
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "『 - 』•『𝚁 𝙰 𝙺 𝙸 𝙱  _𝚇_ 𝙱 𝙾 𝚃』",
-  "prefix": "/",
+  "nickNameBot": "『 . 』•『Meow』",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
