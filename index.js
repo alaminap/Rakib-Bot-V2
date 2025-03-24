@@ -32,7 +32,10 @@ function startProject() {
 			log.info("Restarting Project...");
 			startProject();
 		}
-		startProject();
+	});
+}
+
+startProject();
 
 const express = require("express");
 const app = express();
@@ -62,7 +65,3 @@ app.get("/webhook", (req, res) => {
 app.listen(PORT, "0.0.0.0", () => {
     console.log(Server is running on port ${PORT});
 });
-	});
-}
-
-startProject();
